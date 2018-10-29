@@ -1,4 +1,7 @@
-	
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c848a4cd8013496f9a6a823c5443e534)](https://www.codacy.com/app/Websecurify/go-camouflage?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=websecurify/go-camouflage&amp;utm_campaign=Badge_Grade)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/websecurify.svg?logo=twitter)](https://twitter.com/websecurify)
+
+
 	  ______     ___      .___  ___.   ______    __    __   _______  __          ___       _______  _______ 
 	 /      |   /   \     |   \/   |  /  __  \  |  |  |  | |   ____||  |        /   \     /  _____||   ____|
 	|  ,----'  /  ^  \    |  \  /  | |  |  |  | |  |  |  | |  |__   |  |       /  ^  \   |  |  __  |  |__   
